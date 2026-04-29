@@ -20,12 +20,12 @@
     "flag": "rus.png"
   },
   {
-    "flag": "doge-mode.png",
+    "flag": "sw-mod.png",
     "update": "2026/04/29",
     "perfect": true,
 	"compatible": "2.1",
-    "name": "Doge Mode",
-    "id": "doge-mode",
+    "name": "SootWorks Mod",
+    "id": "sw-mod",
     "author": "Q17pD, Nor, Thickish Swan"
   },
   {
