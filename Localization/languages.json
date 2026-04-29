@@ -1,0 +1,131 @@
+[
+  {
+    "flag": "us.png",
+    "update": null,
+    "perfect": null,
+    "size": null,
+    "compatible": null,
+    "name": "English",
+    "id": "en",
+    "author": null
+  },
+  {
+    "update": "2026/01/28",
+    "compatible": "2.0_Beta",
+    "perfect": false,
+    "id": "ru",
+    "author": "Jabka666",
+    "name": "Russian",
+    "size": 307998410,
+    "flag": "rus.png"
+  },
+  {
+    "flag": "doge-mode.png",
+    "update": "2026/04/29",
+    "perfect": true,
+	"compatible": "2.1",
+    "name": "Doge Mode",
+    "id": "doge-mode",
+    "author": "Q17pD, Nor, Thickish Swan"
+  },
+  {
+    "perfect": false,
+    "id": "zh_Hans",
+    "size": 72481549,
+    "author": "ZiYueCommentary",
+    "flag": "zh.png",
+    "update": "2026/01/17",
+    "name": "Simplified Chinese",
+    "compatible": "2.0"
+  },
+  {
+    "flag": "jp.png",
+    "update": "2022/12/9",
+    "perfect": false,
+    "size": 11933847,
+    "compatible": "1.1",
+    "name": "Japanese",
+    "id": "ja",
+    "author": "XingBGames"
+  },
+  {
+    "name": "German",
+    "id": "de",
+    "author": "Tillikum Soyer",
+    "flag": "de.png",
+    "update": null,
+    "perfect": null,
+    "size": null,
+    "compatible": null
+  },
+  {
+    "id": "es",
+    "flag": "es.png",
+    "update": "2026/01/24",
+    "perfect": false,
+    "size": 155844643,
+    "author": "SuZUkI",
+    "name": "Spanish",
+    "compatible": "1.5.3"
+  },
+  {
+    "name": "Traditional Chinese",
+    "id": "zh_Hant",
+    "author": "ZiYueCommentary",
+    "flag": "zh.png",
+    "update": "2023/1/17",
+    "perfect": false,
+    "size": 7999813,
+    "compatible": "1.2"
+  },
+  {
+    "name": "French",
+    "flag": "fr.png",
+    "author": "Sinosse",
+    "id": "fr",
+    "update": "2025/12/07",
+    "compatible": "1.5.5",
+    "size": 486205,
+    "perfect": false
+  },
+  {
+    "name": "Hungarian",
+    "id": "hu",
+    "author": "Nemtommiez",
+    "update": null,
+    "perfect": false,
+    "flag": "hun.png",
+    "size": null,
+    "compatible": "1.2"
+  },
+  {
+    "flag": "pl.png",
+    "size": null,
+    "compatible": "1.2",
+    "name": "Polish",
+    "id": "pl",
+    "author": "DakingVSGRD",
+    "update": null,
+    "perfect": false
+  },
+  {
+    "perfect": false,
+    "author": "Mericchi",
+    "update": "2025/06/24",
+    "name": "Turkish",
+    "id": "tr",
+    "size": 86558,
+    "compatible": "1.2",
+    "flag": "tr.png"
+  },
+  {
+    "id": "uk",
+    "author": "Mykyta (\"Phrenetic\")",
+    "perfect": false,
+    "compatible": "1.3.2",
+    "update": "2025/12/24",
+    "name": "Ukrainian",
+    "flag": "uk.png",
+    "size": 78030203
+  }
+]
