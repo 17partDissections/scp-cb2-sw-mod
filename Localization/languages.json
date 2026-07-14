@@ -1,5 +1,14 @@
 [
   {
+	"name": "SootWorks Mod",
+	"id": "sw-mod",
+    "flag": "sw-mod.png",
+    "update": "2026/07/14",
+	"compatible": "2.1.5",
+    "author": "Q17pD, Nor, Thickish Swan",
+	"perfect": true
+  },
+  {
     "flag": "us.png",
     "update": null,
     "perfect": null,
@@ -18,15 +27,6 @@
     "name": "Russian",
     "size": 307998410,
     "flag": "rus.png"
-  },
-  {
-    "flag": "sw-mod.png",
-    "update": "2026/07/13",
-    "perfect": true,
-	"compatible": "2.1.5",
-    "name": "SootWorks Mod",
-    "id": "sw-mod",
-    "author": "Q17pD, Nor, Thickish Swan"
   },
   {
     "perfect": false,
