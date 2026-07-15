@@ -28,21 +28,21 @@
 	"fallback": true, // Если вы хотите, чтобы игра отображала только локализованные субтитры, установите для этого параметра значение false.
 	"colors": {
 		// Укажите RGB-цвет субтитров, использующихся здесь.
-		"announcement": [130, 130, 130],
+		"announcement": [140, 170, 130],
 		"chaos": [0, 130, 0],
 		"crew": [135, 160, 130],
-		"classd": [225, 120, 0],
-		"guard": [180, 180, 150],
+		"classd": [100, 50, 0],
+		"guard": [0, 245, 215],
 		"janitor": [120, 140, 170],
-		"mtf": [100, 60, 45],
-		"nazi": [130, 0, 20],
-		"035": [150, 0, 0],
-		"049": [50, 70, 70],
-		"066": [180, 35, 60],
+		"mtf": [75, 65, 130],
+		"nazi": [188, 0, 0],
+		"035": [190, 255, 45],
+		"049": [255, 115, 55],
+		"066": [250, 0, 100],
 		"096": [230, 230, 230],
-		"106": [10, 5, 5],
-		"682": [180, 160, 135],
-		"860-2": [110, 55, 80],
+		"106": [20, 30, 40],
+		"682": [120, 220, 120],
+		"860-2": [230, 230, 0],
 		"1499-1": [40, 40, 40]
 	},
 	/* D-9341 */
@@ -89,178 +89,178 @@
 		}
 	],
 	/* ИНТРО */
-	/* АГЕНТ АЛГРИН */
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\BeforeDoorOpen.ogg": [
+	/* АГЕНТ Хлебный Мякиш */
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\BeforeDoorOpen.ogg": [
 		{
-			"text": "Центр, это агент Алгрин. Необходимо открыть Камеру 3-11.",
+			"text": "Центр, это агент Хлебный Мякиш. Необходимо открыть Камеру 3-11.",
 			"delay": 3.5,
 			"color": "guard",
 			"length": 3.9
 		},
 		{
-			"text": "Вас понял.",
-			"delay": 7.83,
-			"length": 0.76
+			"text": "*ОТРЫЖКА*",
+			"delay": 5.83,
+			"length": 1
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCell.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\ExitCell.ogg": [
 		{
-			"text": "Эй, для тебя есть работёнка. Выйди из камеры.",
+			"text": "Эй, сегодня твоя очередь на блоуджоб. Выйди из камеры.",
 			"delay": 0.32,
 			"color": "guard",
 			"length": 3.81
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCellRefuse0.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\ExitCellRefuse0.ogg": [
 		{
-			"text": "Ты идиот что-ли? Я же понятно сказал, выходи из камеры! Я ж тебя прикончу.",
+			"text": "Ты еблан что-ли? выходи из камеры, иначе я тебя выебу!",
 			"delay": 0.12,
 			"color": "guard",
 			"length": 5.92
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCellRefuse1.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\ExitCellRefuse1.ogg": [
 		{
-			"text": "Слушай, приятель, я не могу торчать тут весь день. Я пытаюсь быть вежливым. Если ты сейчас же не выйдешь, я надаю тебе по щам.",
+			"text": "Бля ты заемал. Если ты не выйдешь прямо сейчас, то тебя ждет судьба Бруно.",
 			"color": "guard",
 			"delay": 0.09,
 			"length": 7.99
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\CellGas0.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\CellGas0.ogg": [
 		{
-			"text": "*СМЕШОК* Да ты самый тупой, кого я только знал. Что ж, закройте дверь и пустите газ.",
+			"text": "Бля ладно в пизду, убейте его.",
 			"color": "guard",
 			"delay": 0.53,
 			"length": 5.16
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\CellGas1.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\CellGas1.ogg": [
 		{
-			"text": "Ха, буду сожалеть что не побил тебя. Твоя морда этого заслуживает.",
+			"text": "*СМЕХ* смотрите, он теперь прям как пиздюк в Освенциме!",
 			"color": "guard",
 			"delay": 0.45,
 			"length": 4.32
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\Escort0.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\Escort0.ogg": [
 		{
-			"text": "Просто следуй за мной. И кстати, мы имеем право убивать всех непослушных испытуемых. Так что не глупи.",
+			"text": "Пиздуй за мной. И кстати бтв, мы имеем право обнулять всех евреев. Так что не пытайся отсосать мне член.",
 			"color": "guard",
 			"delay": 0.66,
 			"length": 7.86
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\Escort1.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\Escort1.ogg": [
 		{
-			"text": "Просто следуй за мной. И кстати, мы имеем право, эм... устранять любых непослушных испытуемых, так что я не советую тебе делать глупости.",
+			"text": "Просто иди за мной. А, кстати, учти: нам выдано право на устранение таких пидоров, как ты.",
 			"delay": 0.12,
 			"color": "guard",
 			"length": 10.39
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRun.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortRun.ogg": [
 		{
-			"text": "Эй, ослина! Ты куда прёшься? А ну топай назад!",
+			"text": "Эй, сперможуй! Ты куда побежал? Пиздуй назад!",
 			"delay": 0.54,
 			"color": "guard",
 			"length": 3.20
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRefuse0.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortRefuse0.ogg": [
 		{
-			"text": "Шевелись! Там ждут тебя!",
+			"text": "Шевелись, спермоприемник!",
 			"delay": 0.33,
 			"color": "guard",
 			"length": 1.85
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRefuse1.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortRefuse1.ogg": [
 		{
-			"text": "Чувак, я и так ненавижу свою работу. Зачем ты её ещё усложняешь?",
+			"text": "Какой же мудозвон! Нахуя ты все усложняешь?",
 			"delay": 0.36,
 			"color": "guard",
 			"length": 3.90
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortPissedOff0.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortPissedOff0.ogg": [
 		{
-			"text": "Знаешь, это всё меня давно бесит, либо ты начинаешь сотрудничать, либо я тебя застрелю нахрен.",
+			"text": "Ты меня заебал, либо ты начинаешь сотрудничать, либо я тебя застрелю нахуй ван-тапом.",
 			"delay": 0.11,
 			"color": "guard",
 			"length": 5.84
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortPissedOff1.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortPissedOff1.ogg": [
 		{
-			"text": "Знаешь, это меня всё давно бесит, либо ты начинаешь сотрудничать, либо я вгоняю пулю тебе в бошку.",
+			"text": "Знаешь, меня заебало это все конкретно. Либо ты начинаешь сотрудничать, либо получишь маслину в голову.",
 			"delay": 0.12,
 			"color": "guard",
 			"length": 6.97
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortKill0.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortKill0.ogg": [
 		{
-			"text": "Окей, знаешь что? Мы всё равно найдём тебе замену.",
+			"text": "SHOTS FIRED! SHOTS FIRED!",
 			"delay": 0.59,
 			"color": "guard",
 			"length": 2.98
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortKill1.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortKill1.ogg": [
 		{
-			"text": "Ладно, знаешь что? Мы ведь всё равно найдём тебе замену.",
+			"text": "Я нассу на твою могилу, хуеглот!",
 			"delay": 0.18,
 			"color": "guard",
 			"length": 4.96
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortTerminated.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortTerminated.ogg": [
 		{
-			"text": "Я избавлюсь от тела, а пока ты можешь идти и привести мне кого-нибудь другого...",
+			"text": "Так я его щас выебу, пока еще тепленькое, а ты сходи-ка и приведи мне еще одного...",
 			"delay": 0.54,
 			"color": "guard",
 			"length": 5.55
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone0.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortDone0.ogg": [
 		{
-			"text": "Тааакс, мы уже пришли. Иди в ту дверь и следуй всем инструкциям, ииии... возможно ты останешься цел.",
+			"text": "Ну, вот мы и на месте. Пиздуй в ту дверь. Делай, что они скажут, ииии... возможно ты не лишишься девственности.",
 			"delay": 0.73,
 			"color": "guard",
 			"length": 7.16
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone1.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortDone1.ogg": [
 		{
-			"text": "Да, вот мы и пришли. Но я всё ещё жалею что не врезал тебе, однако... э... неважно.",
+			"text": "Тааакс, вот мы и пришли. Кстати ты видел новое видео Мистера Биста?",
 			"delay": 0.07,
 			"color": "guard",
 			"length": 6.32
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone2.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortDone2.ogg": [
 		{
-			"text": "Вот, мы и пришли. Я всё ещё жалею что не втащил тебе, нооо... э... ладно.",
+			"text": "Вот мы и пришли. Давай, пиздуй в испытательную камеру.",
 			"delay": 0.45,
 			"color": "guard",
 			"length": 5.31
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone3.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortDone3.ogg": [
 		{
-			"text": "Вот, мы и пришли, иди в ту дверь и следуй всем инструкциям, и... возможно, ты останешься цел. Или не останешься. Мне насрать.",
+			"text": "Я рад, что не убежал. Хороший мальчик. Если выживешь, то, возможно, я вызову тебе 8-ми летнюю шлюху... Ха-ха, шучу.",
 			"delay": 0.58,
 			"color": "guard",
-			"length": 8.02
+			"length": 9.02
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone4.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\EscortDone4.ogg": [
 		{
-			"text": "Так, не трать время. Они давно ждут тебя.",
+			"text": "*НАПЕВАЕТ ПЕСНЮ* Э-э..что ты стоишь? Пиздуй давай!",
 			"delay": 0.60,	
 			"color": "guard",
-			"length": 2.48
+			"length": 5.48
 		}
 	],
 	"Localization\\ru\\SFX\\Room\\Intro\\WhatThe0b.ogg": [
