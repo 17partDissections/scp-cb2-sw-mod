@@ -14,7 +14,7 @@
 		{
 			"text": "Этот текст появляется через 3,3 секунды. Он оранжевый.",
 			"delay": 3.3,
-			"color": "classd"
+			"color": "classc"
 		},
 		{
 			"text": "Эта строка должна оставаться на экране 10+5 секунд.",
@@ -31,7 +31,7 @@
 		"announcement": [140, 170, 130],
 		"chaos": [0, 130, 0],
 		"crew": [135, 160, 130],
-		"classd": [100, 50, 0],
+		"classc": [100, 50, 0],
 		"guard": [0, 245, 215],
 		"janitor": [120, 140, 170],
 		"mtf": [75, 65, 130],
@@ -50,42 +50,42 @@
 		{
 			"text": "*КАШЕЛЬ*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough1.ogg": [
 		{
 			"text": "*КАШЕЛЬ*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough2.ogg": [
 		{
 			"text": "*КАШЕЛЬ*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"ru\\SFX\\Character\\D9341\\Cough0Gas.ogg": [
 		{
 			"text": "*КАШЕЛЬ*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough1Gas.ogg": [
 		{
 			"text": "*КАШЕЛЬ*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough2Gas.ogg": [
 		{
 			"text": "*КАШЕЛЬ*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	/* ИНТРО */
@@ -121,7 +121,7 @@
 	],
 	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Myakish\\ExitCellRefuse1.ogg": [
 		{
-			"text": "Бля ты заемал. Если ты не выйдешь прямо сейчас, то тебя ждет судьба Бруно.",
+			"text": "Бля ты заемал. Если ты не выйдешь прямо сейчас, то тебя ждет судьба еврея.",
 			"color": "guard",
 			"delay": 0.09,
 			"length": 7.99
@@ -277,10 +277,10 @@
 			"length": 0.96
 		}
 	],
-	/* Агент Пиздабол реагирует на побег: */
+	/* Безымянный охранник реагирует на побег: */
 	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\PlayerEscape.ogg": [
 		{
-			"text": "Эй! Стой, сука! Але, Он уебывает!",
+			"text": "Эй! Стой, сука! Бля, Он съебывает!",
 			"delay": 0.57,
 			"color": "guard",
 			"length": 4.02
@@ -505,17 +505,17 @@
 			"color": "guard"
 		}
 	],
-	/* ОХРАННИК У КАМЕРЫ */
+	/* Агент Пиздабол у камеры SCP-173 */
 	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Balcony\\Alert0.ogg": [
 		{
-			"text": "Эй, сыкло, а ну быстро вернись в камеру. Иначе, я за себя не отвечаю.",
+			"text": "Эй, долбаеб, а ну быстро вернись в камеру!",
 			"color": "guard",
 			"length": 4.85
 		}
 	],
 	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Balcony\\Alert1.ogg": [
 		{
-			"text": "Неужели ты думаешь, что можешь самовольничать? Вернись в камеру, сейчас же.",
+			"text": "Сука, давай не отходить от скрипта? Вернись в камеру!",
 			"delay": 0.07,
 			"color": "guard",
 			"length": 4.53
@@ -523,7 +523,7 @@
 	],
 	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Balcony\\OhShit.ogg": [
 		{
-			"text": "О бля. О, бля! О, бля!",
+			"text": "Ой блять, только не ты!",
 			"delay": 0.16,
 			"color": "guard",
 			"length": 2.10
@@ -531,7 +531,7 @@
 	],
 	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Balcony\\WTF0.ogg": [
 		{
-			"text": "Что происходит?",
+			"text": "Че за хуйня?",
 			"delay": 0.07,
 			"color": "guard",
 			"length": 0.94
@@ -539,7 +539,7 @@
 	],
 	"Localization\\ru\\SFX\\Room\\Intro\\Guard\\Balcony\\WTF1.ogg": [
 		{
-			"text": "Да что же происходит!?",
+			"text": "Да что происходит?",
 			"delay": 0.11,
 			"color": "guard",
 			"length": 1.28
@@ -548,25 +548,25 @@
 	/* ФРАНКЛИН */
 	"Localization\\ru\\SFX\\Room\\Intro\\WhatThe0a.ogg": [
 		{
-			"text": "Агент, он прямо за тобой!",
+			"text": "Мякиш, он прямо за тобой!",
 			"length": 1.26
 		},
 		{
-			"text": "Так, хорошо, я собираюсь моргнуть. Не отводи взгляд от него.",
+			"text": "Так, хорошо...я сейчас моргну.",
 			"delay": 2.04,
 			"length": 3.35
 		}
 	],
 	"Localization\\ru\\SFX\\Room\\Intro\\Scientist\\Franklin\\EnterChamber.ogg": [
 		{
-			"text": "Внимание, всему персоналу класса D, приказывается войти в камеру содержания SCP-173.",
+			"text": "Внимание, всему персоналу класса С, приказывается войти в камеру содержания SCP-173.",
 			"color": "announcement",
 			"length": 7.57
 		}
 	],
 	"Localization\\ru\\SFX\\Room\\Intro\\Scientist\\Franklin\\Refuse0.ogg": [
 		{
-			"text": "Испытуемый D-9341, войдите в комнату содержания, или вы будете уничтожены!",
+			"text": "Испытуемый С-9341, войдите в комнату содержания, или вы будете уничтожены!",
 			"delay": 0.11,
 			"color": "announcement"
 
@@ -582,7 +582,7 @@
 	],
 	"Localization\\ru\\SFX\\Room\\Intro\\Scientist\\Franklin\\Refuse2.ogg": [
 		{
-			"text": "Сотрудник-9341 назначен на уничтожение. Открыть огонь!",
+			"text": "Спермоприемник-9341 назначен на обнуление. Открыть огонь!",
 			"color": "announcement",
 			"length": 4.78
 		}
@@ -603,19 +603,19 @@
 			"length": 10.18
 		}
 	],
-	/* КЛАСС-D */
-	"Localization\\ru\\SFX\\Room\\Intro\\ClassD\\DontLikeThis.ogg": [
+	/* КЛАСС-С */
+	"Localization\\ru\\SFX\\Room\\Intro\\ClassC\\DontLikeThis.ogg": [
 		{
-			"text": "Чертовщина какая-то.",
+			"text": "Ммм..сейчас бы сладенького фембоя...",
 			"delay": 0.33,
-			"color": "classd",
+			"color": "classc",
 			"length": 1.44
 		}
 	],
-	"Localization\\ru\\SFX\\Room\\Intro\\ClassD\\Breen.ogg": [
+	"Localization\\ru\\SFX\\Room\\Intro\\ClassC\\Breen.ogg": [
 		{
 			"text": "Стой, что за-",
-			"color": "classd",
+			"color": "classc",
 			"length": 1.93
 		}
 	],
@@ -1514,7 +1514,7 @@
 	/* ЭМИЛИ РОСС */
 	"SFX\\Character\\Scientist\\EmilyScream.ogg": [
 		{
-			"text": "*КРИК*",
+			"text": "*КРИК КАКОЙ-ТО ПИЗДЫ*",
 			"delay": 1.4,
 			"length": 1.0
 		}
@@ -1728,14 +1728,14 @@
 	"SFX\\Character\\LureSubject\\Idle0.ogg": [
 		{
 			"text": "*ХНЫЧЕТ*",
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\LureSubject\\Idle1.ogg": [
 		{
 			"text": "Меня кто-нибудь слышит?",
 			"delay": 1.01,
-			"color": "classd",
+			"color": "classc",
 			"length": 1.61
 		}
 	],
@@ -1743,7 +1743,7 @@
 		{
 			"text": "Эй?",
 			"delay": 1.13,
-			"color": "classd",
+			"color": "classc",
 			"length": 0.92
 		}
 	],
@@ -1751,7 +1751,7 @@
 		{
 			"text": "Пожалуйста, освободите меня!",
 			"delay": 0.77,
-			"color": "classd",
+			"color": "classc",
 			"length": 2.13
 		}
 	],
@@ -1759,7 +1759,7 @@
 		{
 			"text": "Дайте мне уйти!",
 			"delay": 0.9,
-			"color": "classd",
+			"color": "classc",
 			"length": 1.63
 		}
 	],
@@ -1767,7 +1767,7 @@
 		{
 			"text": "Я просто хочу уйти, пожалуйста!",
 			"delay": 0.73,
-			"color": "classd",
+			"color": "classc",
 			"length": 3.33
 		}
 	],
@@ -1775,38 +1775,38 @@
 		{
 			"text": "*ХНЫЧЕТ*",
 			"delay": 0.85,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"Localization\\ru\\SFX\\Room\\106Chamber\\FemurBreaker.ogg": [
 		{
 			"text": "АХХХХХХХХ!",
 			"delay": 3.35,
-			"color": "classd",
+			"color": "classc",
 			"length": 3.23
 		},
 		{
 			"text": "*СУДОРОЖНОЕ ДЫХАНИЕ*",
 			"delay": 6.53,
-			"color": "classd",
+			"color": "classc",
 			"length": 1.41
 		},
 		{
 			"text": "АГХХХХХХХХХХ!",
 			"delay": 7.94,
-			"color": "classd",
+			"color": "classc",
 			"length": 5.25
 		},
 		{
 			"text": "За что??",
 			"delay": 13.57,
-			"color": "classd",
+			"color": "classc",
 			"length": 1.27
 		},
 		{
 			"text": "*РЫДАНИЕ*",
 			"delay": 14.93,
-			"color": "classd",
+			"color": "classc",
 			"length": 10.85
 		}
 	],
@@ -1814,17 +1814,17 @@
 		{
 			"text": "*РЫДАНИЕ*",
 			"delay": 1.7,
-			"color": "classd"
+			"color": "classc"
 		},
 		{
 			"text": "*РЫДАНИЕ*",
 			"delay": 8.5,
-			"color": "classd"
+			"color": "classc"
 		},
 		{
 			"text": "АХХХХХХХХХ!",
 			"delay": 11.45,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	/* D-9341 */
@@ -1832,7 +1832,7 @@
 		{
 			"text": "Я должен... я должен закончить его...",
 			"delay": 6.72,
-			"color": "classd",
+			"color": "classc",
 			"length": 4.64
 		}
 	],
@@ -1840,13 +1840,13 @@
 		{
 			"text": "Ты действительно хочешь это сделать...",
 			"delay": 0.61,
-			"color": "classd",
+			"color": "classc",
 			"length": 3.06
 		},
 		{
 			"text": "Я-я... не уверен, что у меня получится...",
 			"delay": 12.96,
-			"color": "classd",
+			"color": "classc",
 			"length": 5.16
 		}
 	],
@@ -1854,7 +1854,7 @@
 		{
 			"text": "Я... должен сделать это. Я... я должен...",
 			"delay": 5.77,
-			"color": "classd",
+			"color": "classc",
 			"length": 11.38
 		}
 	],
@@ -1862,7 +1862,7 @@
 		{
 			"text": "У... м-меня... нет... выбора...",
 			"delay": 2.36,
-			"color": "classd",
+			"color": "classc",
 			"length": 8.70
 		}
 	],
@@ -1870,13 +1870,13 @@
 		{
 			"text": "Хахахахахахаха!",
 			"delay": 0.66,
-			"color": "classd",
+			"color": "classc",
 			"length": 4.61
 		},
 		{
 			"text": "Это... это не имеет никакого смысла...",
 			"delay": 5.31,
-			"color": "classd",
+			"color": "classc",
 			"length": 6.26
 		}
 	],
@@ -1884,13 +1884,13 @@
 		{
 			"text": "Нет... это...",
 			"delay": 1.94,
-			"color": "classd",
+			"color": "classc",
 			"length": 3.44
 		},
 		{
 			"text": "Невозможно!",
 			"delay": 5.77,
-			"color": "classd",
+			"color": "classc",
 			"length": 1.78
 		}
 	],
@@ -1898,13 +1898,13 @@
 		{
 			"text": "Хахахахаха!",
 			"delay": 0.95,
-			"color": "classd",
+			"color": "classc",
 			"length": 6.09
 		},
 		{
 			"text": "Его... Его нельзя закончить...",
 			"delay": 7.79,
-			"color": "classd",
+			"color": "classc",
 			"length": 3.77
 		}
 	],
@@ -1912,14 +1912,14 @@
 		{
 			"text": "Ах...",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\Room\\Intro\\Ew1.ogg": [
 		{
 			"text": "Ех...",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	/* НАЦИСТ */
@@ -3564,7 +3564,7 @@
 			"text": "Ахххх...",
 			"delay": 1.5,
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\SCP\\294\\Burn.ogg": [
@@ -3572,7 +3572,7 @@
 			"text": "*БОЛЬ*",
 			"delay": 0.2,
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\SCP\\294\\Ew0.ogg": [
@@ -3580,7 +3580,7 @@
 			"text": "*ЕХ*",
 			"delay": 1.5,
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\SCP\\294\\Ew1.ogg": [
@@ -3588,7 +3588,7 @@
 			"text": "*ЕХ*",
 			"delay": 1.5,
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\SCP\\294\\Cough.ogg": [
@@ -3596,28 +3596,28 @@
 			"text": "*КАШЕЛЬ*",
 			"delay": 1.2,
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\SCP\\294\\Retch0.ogg": [
 		{
 			"text": "*ЗВУКИ РВОТЫ*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\SCP\\294\\Retch1.ogg": [
 		{
 			"text": "*ЗВУКИ РВОТЫ*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\SCP\\294\\Slurp.ogg": [
 		{
 			"text": "*ГЛОТАНИЕ*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\SCP\\294\\Spit.ogg": [
@@ -3625,13 +3625,13 @@
 			"text": "*ЗВУКИ КАШЛЯ И ПЛЕВКОВ*",
 			"delay": 1.0,
 			"length": 2.0,
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	"SFX\\SCP\\294\\Vomit.ogg": [
 		{
 			"text": "*ЗВУКИ КАШЛЯ И РВОТЫ*",
-			"color": "classd"
+			"color": "classc"
 		}
 	],
 	/* 860-2 */
